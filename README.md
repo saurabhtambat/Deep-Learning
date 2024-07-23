@@ -1,4 +1,4 @@
-Cat and Dog Image Classification using CNN and Keras
+# Cat and Dog Image Classification using CNN and Keras
 
 ## Project Overview
 
